@@ -1,2 +1,2 @@
 # telegramBotIpReturner
- You must have WGET module on your host!
+ You must have WGET, pyTelegramBotAPI modules on your host!
